@@ -3,7 +3,7 @@
  *main - main of the program.
  *
  *Return: Return to zero without error, Non-zero value  if errors exist.
- *     */
+ */
 int main(void)
 {
 		printf("Size of a char: %ld byte(s)\n", sizeof(char));
