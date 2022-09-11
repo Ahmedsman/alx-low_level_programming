@@ -9,17 +9,15 @@
  */
 int main (void)
 {
-char ch
-for (ch = 'a' ; ch <= 'z' : ch++) 
-{
-	putchar (ch);
-}
-{
-	if (ch != 'e' && ch != 'q')
-{
-	putchar(ch);
-}
-}
-pitchar('\n');
-return(0);
+	char letter
+		for (letter = 'a' ; letter <= 'z' : letter++)
+	putchar (letter)
+	{
+		if (letter != 'e' && letter != 'q')
+			putchar(letter);
+	}
+	
+	putchar('\n');
+	
+	return (0);
 }
