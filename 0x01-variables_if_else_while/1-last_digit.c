@@ -10,12 +10,15 @@
 
 /*print the last digit of the number stored in the variable n
 *if the last digit is greater than 5, equal to  0 and if it is less than 6
+*Return: Always 0.
 */
 
 int main (void)
+
 {
 	int n;
-	srand(time(0));
+	
+	Srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	
 	if ((n % 10) > 5)
