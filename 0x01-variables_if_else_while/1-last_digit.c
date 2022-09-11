@@ -1,18 +1,15 @@
 /*
 *File: 1-last_digit.c
 *Task 1
-*Auth: Ahmed Suleiman
 */
 
-#include stdio.h
 #include stdlib.h
 #include time.h
-
+#include stdio.h
 /*print the last digit of the number stored in the variable n
 *if the last digit is greater than 5, equal to  0 and if it is less than 6
 *Return: Always 0.
 */
-
 int main (void)
 
 {
