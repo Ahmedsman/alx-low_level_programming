@@ -1,11 +1,12 @@
-#include <stdlib.h>
-#include <time.h>
+/*
+ *File:1-last_digit.c
+ Task 1
+ */
+                                                        #include <stdlib.h>                                     #include <time.h>
 #include <stdio.h>
-
-/**
- * main - determine if it is greater than 5 less than 6 or equal to zero
- *
- * Return: 0 - success
+                                                        /**
+ *main - determine if it is greater than 5, less than 6 or is zero
+*Return: Always 0.
 */
 int main(void)
 {
@@ -27,6 +28,5 @@ int main(void)
 	{
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, l);
 	}
-	
-return (0);
+	return (0);
 }
