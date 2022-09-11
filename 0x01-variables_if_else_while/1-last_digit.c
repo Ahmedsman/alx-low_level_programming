@@ -1,5 +1,5 @@
 /*
-*File: 1-last_digit.c
+*File:1-last_digit.c
 *Task 1
 */
 
