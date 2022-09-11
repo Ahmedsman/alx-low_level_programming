@@ -6,15 +6,15 @@
 #include stdlib.h
 #include time.h
 #include stdio.h
-/*print the last digit of the number stored in the variable n
-*if the last digit is greater than 5, equal to  0 and if it is less than 6
-*Return: Always 0.
+
+/**
+ * main - determine if it is greater than 5 less than 6 or equal to zero
+ *
+ * Return: 0 - success
 */
 int main (void)
-
 {
-	int n;
-	int l;
+	int n, l;
 	
 	Srand(time(0));
 	n = rand() - RAND_MAX / 2;
