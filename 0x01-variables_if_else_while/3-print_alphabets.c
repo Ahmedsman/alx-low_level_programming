@@ -1,8 +1,3 @@
-/*
-*File: 3-print_alphabets.c
-*Task: 3
-*/
-
 #include <studio.h>
 
 /*Printing alphabet in lowercase, and then in uppercase*/
