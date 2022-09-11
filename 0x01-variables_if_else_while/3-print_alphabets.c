@@ -4,8 +4,6 @@
 */
 
 #include <studio.h>
-#include <time.h>
-#include <stdlib.h>
 
 /*Printing alphabet in lowercase, and then in uppercase*/
 int main(void)
