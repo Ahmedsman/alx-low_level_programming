@@ -1,10 +1,8 @@
-/*
- *File:1-last_digit.c
- Task 1
- */
-                                                        #include <stdlib.h>                                     #include <time.h>
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
-                                                        /**
+
+/**
  *main - determine if it is greater than 5, less than 6 or is zero
 *Return: Always 0.
 */
