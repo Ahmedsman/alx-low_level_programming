@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*main: print if output is positive
- *
- * Printing alphabet in lowercase, and then in uppercas
- * Return: 0
+/*
+ * main - Entry point
+ *Description: Printing alphabet in lowercase, and then in uppercas
+ * Return: 0 - success
 */
 int main(void)
 {
