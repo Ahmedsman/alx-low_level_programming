@@ -3,9 +3,8 @@
 /*
  * main - Entry point
  *Description: Printing alphabet in lowercase, and then in uppercas
- * Return: 0 - success
+ *Return: 0 - success
  */
-
 int main(void)
 {
 	char letter;
