@@ -11,7 +11,7 @@ int main(void)
 {
 	char lowalpha;
 
-	for (lowalpha = "z"; lowalpha >= "a"; lowapha--)
+	for (lowalpha = 'z'; lowalpha >= 'a'; lowapha--)
 		putchar(lowapha);
 
 	putchar('\n');
