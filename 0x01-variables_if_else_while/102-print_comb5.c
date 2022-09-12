@@ -20,12 +20,12 @@ int main(void)
 			{
 				for (o = 48; o <= 57; o++)
 				{
-				if (((n + o) > (l + m) && m >= o) || o < m)
+				if (((n + o) > (l + m) && n >= l) || l < n)
 				{
 					putchar(l);
 					putchar(m);
 					putchar(' ');
-					putchar(m);
+					putchar(n);
 					putchar(n);
 
 					if (l + m + n + o == 227 && l == 57)
