@@ -26,7 +26,7 @@ int main(void)
 					putchar(m);
 					putchar(' ');
 					putchar(n);
-					putchar(n);
+					putchar(o);
 
 					if (l + m + n + o == 227 && l == 57)
 					{
