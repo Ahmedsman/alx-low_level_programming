@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-/*
+/**
  * main - Entry point
  * Description: Printing alphabet in lowercase, and then in uppercas
  * Return: Always 0 (success)
