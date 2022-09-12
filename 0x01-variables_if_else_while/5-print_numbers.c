@@ -9,9 +9,9 @@
 
 int main(void)
 {
-	int dignum;
-	for (dignum = 0; dignum < 10; dignum++)
-			printf("%i", dignum);
+	int dignm;
+	for (dignm = 0; dignm < 10; dignm++)
+			printf("%i", dignm);
 
 	printf("\n");
 
