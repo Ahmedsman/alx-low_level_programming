@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - entry piont
+ * main - print alphabet in lower case except q and e
  *
- * description: using main function
- * this programe print alphabet in lower case
+ * description: all code putting in main function
+ * 
  * return: Always  0
  */
 int main(void)
