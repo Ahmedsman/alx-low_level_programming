@@ -11,8 +11,8 @@ int main(void)
 {
 	int dignum;
 
-	for (dignum = 0; dignum < 10: dignum++)
-			printf("%i", dignum);
+	for (dignum = 0; dignum < 10;  dignum++)
+		printf("%i", dignum);
 
 	printf("\n");
 
