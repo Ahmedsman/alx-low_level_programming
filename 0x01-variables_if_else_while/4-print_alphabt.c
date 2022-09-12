@@ -7,7 +7,7 @@
  * this programe print alphabet in lower case
  * return: Always  0
  */
-int main (void)
+int main(void)
 {
 	char letter;
 		for (letter = 'a'; letter <= 'z'; letter++)
@@ -15,8 +15,8 @@ int main (void)
 		if (letter != 'e' && letter != 'q')
 			putchar(letter);
 	}
-	
+
 	putchar('\n');
-	
+
 	return (0);
 }
