@@ -9,10 +9,10 @@
 
 int main(void)
 {
-	int dig;
+	int dignum;
 
-	for (dig = 0; dig < 10; dig++)
-			printf("%i", dig);
+	for (dignum = 0; dignum < 10: dignum++)
+			printf("%i", dignum);
 
 	printf("\n");
 
