@@ -3,7 +3,7 @@
 /**
  * main - print the first 50 fibonacci numbers
  *
- * Return: successèé
+ * Return: Aways (success)
  */
 
 int main(void)
@@ -19,6 +19,7 @@ int main(void)
 
 		i++;
 	}
+
 	printf("%d\n", z);
 	return (0);
 }
