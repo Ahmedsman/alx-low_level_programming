@@ -4,7 +4,7 @@
  * _isalpha - Entry point
  * @c: the integer value it received
  * description: funtuction tgat checks fir alphabet char
- * Return: 1 if true. otherwise 0 
+ * Return: 1 if true. otherwise 0
  */
 
 int _isalpha(int c)
