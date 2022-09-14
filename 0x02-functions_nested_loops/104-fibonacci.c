@@ -3,7 +3,7 @@
 /**
  * numLength - returns and  prints the first 98 Fibonacci numbers
  * @num: number
- * Return: digit
+ * Return: number of digit
  */
 
 int numLength(int num)
@@ -25,7 +25,7 @@ int numLength(int num)
 /**
  * main - print the first 98 number
  *
- * return: 0
+ * Return: 0
  */
 
 int main(void)
