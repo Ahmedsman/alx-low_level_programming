@@ -2,17 +2,17 @@
 
 /**
  * main - prints the first 98 Fibonacci numbers
- *
+ * @num: number
  * Return: digit
  */
 
 int numLength(int num)
 {
 	int length = 0;
-
+7
 	if (!num)
 	{
-		return(1);
+		return (1);
 	}
 
 	while (num)
