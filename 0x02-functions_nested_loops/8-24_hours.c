@@ -2,7 +2,6 @@
 
 /**
  * jack_bauer - minute of the day
- * @n: minute
  * description print every munite of the day
  *
  * Return: void
