@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the first 98 Fibonacci numbers
+ * numLength - returns and  prints the first 98 Fibonacci numbers
  * @num: number
  * Return: digit
  */
@@ -22,7 +22,6 @@ int numLength(int num)
 	}
 	return (length);
 }
-
 /**
  * main - print the first 98 number
  *
