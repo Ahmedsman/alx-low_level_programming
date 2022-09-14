@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _last_digit - Entry point
+ * print_last_digit - Entry point
  * @n: integer number
  * dedcription: print the last digit a number
  *
