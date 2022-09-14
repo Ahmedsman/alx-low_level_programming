@@ -2,7 +2,7 @@
 
 /**
  * main - print alphabet
- * description: function that print alphabet in lowercase
+ * Description:a function that prina alphabet in lowercase
  *
  * Return: void
  */
