@@ -3,7 +3,7 @@
 /**
  * _islower - Entry point
  *  Description : print function that checks for lowercase character.
- *  @c: the integer value it received
+ *  the integer value it received
  *
  *  Return: 1 if true. 0 if false.
  */
@@ -14,7 +14,6 @@ int _islower(int c)
 
 	for (x = 'a'; x <= 'z'; x++)
 	{
-		/* refer int*/
 		if (c == x)
 		{
 			return (1);
