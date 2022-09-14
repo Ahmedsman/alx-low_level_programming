@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * -islower.c - Entry poit
