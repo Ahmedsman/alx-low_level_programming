@@ -3,7 +3,7 @@
 /**
  * _islower - Entry point
  *  Description : print function that checks for lowercase character.
- *  the integer value it received
+ *  @c: the integer value it received
  *
  *  Return: 1 if true. 0 if false.
  */
