@@ -20,7 +20,7 @@ void jack_bauer(void)
 		{
 			hours_max = '4';
 		}
-		hours_ones = '0'
+		hours_ones = '0';
 		while (hours_ones < hours_max)
 		{
 			munites_tens = '0';
@@ -40,11 +40,11 @@ void jack_bauer(void)
 			minutes_ones = '0';
 			minutes_tens++;
 		}
-			minutes_tens = '0:;
+			minutes_tens = '0':;
 			hours_ones++;
 		}
 		hours_ones = '0';
-		hours_tens++
+		hours_tens++;
 	}
 }
 
