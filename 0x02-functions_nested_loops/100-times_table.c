@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_table -  print times table
+ * print_times_table -  print times table
  * @n: the number
  *
  * Return: number matrix
