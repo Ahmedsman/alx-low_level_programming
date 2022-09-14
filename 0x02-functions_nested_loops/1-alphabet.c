@@ -2,14 +2,13 @@
 
 /**
  * main - print alphabet
- * Description: a function that prints the alphabet,
+ * description: a function that prints the alphabet,
  * in lowercase, followed by a new line.
  *
  * Return: void
  */
 
 void print_alphabet(void)
-
 {
 	char letter = 'a';
 
