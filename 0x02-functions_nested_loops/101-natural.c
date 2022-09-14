@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print the first 50 fibonacci numbers
+ * main - print the sum of multiple of 3 and 5.
  *
  * Return: Aways (success)
  */
@@ -12,7 +12,7 @@ int main(void)
 
 	while (i < 1024)
 	{
-		if ((i % 3 == 0) || (1 % 5 == 0))
+		if ((i % 3 == 0) || (i % 5 == 0))
 		{
 			z += i;
 		}
