@@ -2,9 +2,8 @@
 
 /**
  * main - print alphabet
- * description: a function that prints the alphabet,
+ * Description: a function that prints the alphabet,
  * in lowercase, followed by a new line.
- *
  * Return: void
  */
 
