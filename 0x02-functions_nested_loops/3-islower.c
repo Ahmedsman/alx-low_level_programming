@@ -14,7 +14,7 @@ int _islower(int c)
 
 	for (x = 'a'; x <= 'z'; x++)
 	{
-		/* refer int c*/
+		/* refer int*/
 		if (c == x)
 		{
 			return (1);
