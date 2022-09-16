@@ -1,11 +1,10 @@
 #include "main.h"
-
 /**
  * print_line - A function who print lines n times
  *
  * @n: number of times to print line
  *
- * Return: nil
+ * Return: Does not return anything
  */
 void print_line(int n)
 {
