@@ -1,7 +1,9 @@
 #include "main.h"
 /**
- * more_numbers - function that prints 10 times the numbers
+ * more_numbers - function that prints 10 times the number
+ * s
  * decription: 0 to 14
+ *
  * Return: nil
  */
 void more_numbers(void)
