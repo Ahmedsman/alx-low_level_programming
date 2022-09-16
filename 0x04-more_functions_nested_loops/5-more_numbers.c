@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * void more_numbers - function that prints 10 times the numbers
+ * more_numbers - function that prints 10 times the numbers
  * decription: 0 to 14
  * Return: nil
  */
