@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - program that finds and prints.
- * description : largest prime factor of 612852475143
+ * main - Finds and prints
+ * description: largest prime factor of 612852475143
  *
  * Return: 0
  */
@@ -15,12 +15,11 @@ int main(void)
 	{
 		if (num / factor > 0 && num % factor == 0)
 			num /= factor;
-		else if (num / factor > 0 && num % factor ! = 0)
+		else if (num / factor > 0 && num % factor != 0)
 			factor++;
 		else
 			break;
 	}
-	printf("%ld\n"' factor);
+	printf("%ld\n", factor);
 	return (0);
 }
-
