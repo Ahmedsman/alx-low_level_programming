@@ -2,7 +2,7 @@
 
 /**
  * _strcpy - function that copies the string pointed to by src
- * description: include the terminating null byte (\0), to the buffer pointed to by dest.
+ * description: include the terminating null byte (\0)
  * @src: char
  * @dest: pointer
  * Return: point to dest.
