@@ -3,7 +3,7 @@
 /**
  * _puts - function prints a string
  * description: to stdout.
- * @str: pointer
+ * @str: a pointer 
  * Return: Always 0.
  */
 
