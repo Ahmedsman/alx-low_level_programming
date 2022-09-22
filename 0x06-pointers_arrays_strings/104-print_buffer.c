@@ -14,7 +14,7 @@ int isPrintableASCII(int n)
 
 /**
  * printHexes - print hex values for string b in formatted form
- * @b: string to print
+ * @b: string
  * @start: starting position
  * @end: ending position
  */
@@ -37,7 +37,7 @@ void printHexes(char *b, int start, int end)
 /**
  * printASCII - print ascii values for string b,
  * formatted to replace nonprintable chars with '.'
- * @b: string to print
+ * @b: string
  * @start: starting position
  * @end: ending position
  */
@@ -57,7 +57,7 @@ void printASCII(char *b, int start, int end)
 /**
  * print_buffer - prints a buffer
  * @b: string
- * @size: size of buffer
+ * @size: size
  */
 void print_buffer(char *b, int size)
 {
