@@ -3,9 +3,8 @@
 /**
  * _strcat - Function that concatenates two strings.
  * @dest: the string to be appended
- * @src: the string which src will appends to
- * 
- * Return: @dest.
+ * @src: the string which src will appends to 
+ * Return: @dest
  */
 
 char *_strcat(char *dest, char *src)
