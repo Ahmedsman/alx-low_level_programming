@@ -2,10 +2,10 @@
 
 /**
  * _strcat - Function that concatenates two strings.
- * @src: the string to be appended
- * @dest: the string which src will appends to
+ * @dest: the string to be appended
+ * @src: the string which src will appends to
  * 
- * Return: dest.
+ * Return: @dest.
  */
 
 char *_strcat(char *dest, char *src)
