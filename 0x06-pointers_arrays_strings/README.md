@@ -1,4 +1,4 @@
-ALX | alx-low level programming | 0x06-pointers arrays strings.
+ALX | alx low level programming | 0x06-pointers arrays strings.
 
 Task 0: Function that concatenates two strings. This function appends the src string to the dest string, overwriting the terminating null byte (\0) at the end of dest, and then adds a terminating null byte.
 
