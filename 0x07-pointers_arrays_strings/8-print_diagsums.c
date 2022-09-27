@@ -5,6 +5,8 @@
  * print_diagsums - function prints sum of two diagonals
  * @a: matrix of integers
  * @size: size
+ *
+ * Return: nil
  */
 void print_diagsums(int *a, int size)
 {
