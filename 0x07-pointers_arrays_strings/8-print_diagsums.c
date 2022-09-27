@@ -8,6 +8,7 @@
  *
  * Return: nil
  */
+
 void print_diagsums(int *a, int size)
 {
 	int index, sum1 = 0, sum2 = 0;
@@ -25,5 +26,6 @@ void print_diagsums(int *a, int size)
 		sum2 += a[index];
 		a -= size;
 	}
+
 	printf("%d, %d\n", sum1, sum2);
 }
