@@ -3,17 +3,17 @@
 /**
  * sqrt_check - function verifies if s is the square root if x
  * @s: parameter
- * @x: sqrt to find
- * Return: -1 otherwise sqrt of x
+ * @c: sqrt to find
+ * Return: -1 otherwise sqrt of c
  */
 
-int sqrt_chech(int s, int x)
+int sqrt_chech(int s, int c)
 {
-	if (s * s == x)
+	if (s * s == c)
 		return (s);
-	if (s * s > x)
+	if (s * s > c)
 		return (-1);
-	return (sqrt_check(s + 1, x));
+	return (sqrt_check(s + 1, c));
 }
 
 /**
