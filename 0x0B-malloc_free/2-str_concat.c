@@ -1,10 +1,11 @@
 #include "main.h"
-#include "stdlib"
+#include <stdlib>
 
 /**
  * str_concat - function concatenates two strings.
  * @s1: string
  * @s2: string to concatenates to s1
+ *
  * Return: NULL, otherwise a pointer to the newly allocated space.
  */
 
