@@ -5,7 +5,7 @@
  * struct dog - data type of a poppy structure
  * @name: name of dog
  * @age: age of dog
- * @owner: dog owner
+ * @owner: owner of dog
  *
  * Description: a dog, his name, age and his owner
  */
@@ -20,6 +20,7 @@ struct dog
 /**
  * dog - typedef for struct dog
  */
+
 typedef struct dog dog_t;
 
 void init_dog(struct dog *d, char *name, float age, char *owner);
