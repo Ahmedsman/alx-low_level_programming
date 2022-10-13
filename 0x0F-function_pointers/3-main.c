@@ -1,18 +1,14 @@
 #include "3-calc.h"
-
 /**
- * main -  program performs simple operations.
+ * main -  program that performs simple operations.
  * @argc: number of arguments
  * @argv: array of arguments
- * Return: 0 otherwise error
+ * Return: 0 if success otherwise exit with error number
  */
-
 int main(int argc, char *argv[])
 {
 	int a, b;
-
 	/* @p is a function pointer that point to the given operation */
-
 	int (*p)(int, int);
 
 	if (argc != 4)
