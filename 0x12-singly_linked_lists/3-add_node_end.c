@@ -3,7 +3,7 @@
 /**
  * add_node_end - function adds a new node at the end
  * of a list_t list.
- * @head: head of the linked list.
+ * @head: head of linked list.
  * @str: string to store in the list.
  * Return: address.
  */
